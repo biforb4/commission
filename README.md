@@ -24,9 +24,9 @@
 > - [ Overview](#-overview)
 > - [ Features](#-features)
 > - [ Getting Started](#-getting-started)
-    >   - [ Installation](#-installation)
->   - [Running commission](#-running-commission)
->   - [ Tests and Code Quality](#-tests-and-code-quality)
+  >   - [ Installation](#-installation)
+  >   - [Running commission](#-running-commission)
+  >   - [ Tests and Code Quality](#-tests-and-code-quality)
 ---
 
 ##  Overview
